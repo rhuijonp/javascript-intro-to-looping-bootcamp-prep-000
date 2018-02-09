@@ -1,6 +1,5 @@
-var array = new Array(25);
 
-/*var array = []; */
+var array = []; 
 
 function forLoop(array){
   for (var i = 0; i < 25; i++){
