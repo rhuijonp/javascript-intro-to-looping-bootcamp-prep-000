@@ -1,3 +1,6 @@
+var elements = 25;
+(myarray, X, "");
+
 var array = [];
 
 function forLoop(array){
