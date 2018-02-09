@@ -1,5 +1,4 @@
-var elements = 25;
-(myarray, X, "");
+var array = new
 
 var array = [];
 
